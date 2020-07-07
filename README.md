@@ -1,11 +1,11 @@
-#**USING CLASSIFICATION ALGORITHM TO DETERMINE THE QUALITY OF RED WINE OF THE VINITO VERDE PORTUGUESE WINE**
+## **USING CLASSIFICATION ALGORITHM TO DETERMINE THE QUALITY OF RED WINE OF THE VINITO VERDE PORTUGUESE WINE**
 
 This project aims at:
 
 - getting insights from the data to determune the features that affect the quality of the wine 
 - Developing a classification algorithm to classify the red wines based on quality 
 
-###**DESCRIPTION OF THE DATASET**
+### **DESCRIPTION OF THE DATASET**
 
 - **fixed acidity** - fixed acidity of the wine 
 - **volatile acidity** - the amount of acetic acid in the wine 
